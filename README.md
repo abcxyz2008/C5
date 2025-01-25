@@ -64,14 +64,14 @@ yum install nodejs -y
 yum install npm -y
 
 Debain, Ubuntu:
-sudo apt-get install git -y
-sudo apt-get install golang -y
-sudo apt-get install perl -y
-sudo apt-get install python3 -y
-sudo apt-get install python2 -y
-sudo apt-get install python3-pip -y
-sudo apt-get install nodejs -y
-sudo apt-get install npm -y
+apt-get install git -y
+apt-get install golang -y
+apt-get install perl -y
+apt-get install python3 -y
+apt-get install python2 -y
+apt-get install python3-pip -y
+apt-get install nodejs -y
+apt-get install npm -y
 
 How to use: 
 - Recommended in shell of google, azure,...
@@ -79,8 +79,8 @@ How to use:
 ```
 ```python
 rm -rf U-DDOS
-git clone https://github.com/U7P4L-IN/U-DDOS/
-cd U-DDOS/
+git clone https://github.com/abcxyz2008/C5/
+cd C5
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
